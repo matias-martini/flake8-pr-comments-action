@@ -1,1 +1,1 @@
-snakeCaseVariable = "This should fail"
+snakeCaseVariableEEeee = "This should faild"
