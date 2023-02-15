@@ -1,0 +1,1 @@
+snakeCaseVariable = "This should fail"
